@@ -1,0 +1,4 @@
+- Make the twitter profile page nav fixed in scroll for large screens.
+- Handle them hover states already!
+- align notifications with notifications
+- fix all fixed navs
